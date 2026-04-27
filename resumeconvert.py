@@ -16,7 +16,7 @@ section.left_margin = Inches(0.75)
 section.right_margin = Inches(0.75)
 
 # Remove default paragraph spacing
-style = doc.styles['Normal']
+style = doc.styles['Bold']
 style.font.name = 'Times New Roman'
 style.font.size = Pt(10)
 style.paragraph_format.space_before = Pt(0)
