@@ -17,7 +17,7 @@ section.right_margin = Inches(0.75)
 
 # Remove default paragraph spacing
 style = doc.styles['Normal']
-style.font.name = 'Arial'
+style.font.name = 'Times New Roman'
 style.font.size = Pt(10)
 style.paragraph_format.space_before = Pt(0)
 style.paragraph_format.space_after = Pt(0)
